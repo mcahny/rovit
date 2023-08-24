@@ -1,5 +1,5 @@
 # Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers
-[**Here**](https://github.com/google-research/google-research/tree/master/fvlm/rovit) is a JAX/Flax implementation of the CVPR-2023 (Highlight) paper ["Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers"](https://arxiv.org/abs/2305.07011). It provides the implementation of Cropped Positional Embedding (CPE) and focal contrastive loss.
+The JAX/Flax implementation of the CVPR-2023 (Highlight) paper ["Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers"](https://arxiv.org/abs/2305.07011). We are releasing the code at [this http URL](https://github.com/google-research/google-research/tree/master/fvlm/rovit).
 
 
 ```bibtex
