@@ -1,5 +1,5 @@
 # Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers
-The JAX/Flax implementation of the CVPR-2023 (Highlight) paper ["Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers"](https://arxiv.org/abs/2305.07011). We are releasing the code at [this http URL](https://github.com/google-research/google-research/tree/master/fvlm/rovit).
+CVPR 2023 (Highlight) [paper](https://arxiv.org/abs/2305.07011). We are releasing the JAX/Flax implementation of the  at [this http URL](https://github.com/google-research/google-research/tree/master/fvlm/rovit).
 
 
 ```bibtex
